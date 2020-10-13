@@ -1,0 +1,29 @@
+{
+  "name": "mapper",
+  "version": "1.0.0",
+  "description": "## Description     * This module will transform one object to another type of object. This can transform most complex structures.",
+  "main": "mapper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sid111293/mapper.git"
+  },
+  "keywords": [
+    "mapper",
+    "transformer",
+    "transformation",
+    "source",
+    "target",
+    "map",
+    "convert",
+    "mapping"
+  ],
+  "author": "Sachin Tripathi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sid111293/mapper/issues"
+  },
+  "homepage": "https://github.com/sid111293/mapper#readme"
+}
