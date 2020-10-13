@@ -1,3 +1,1 @@
-const mapper = require("./helper");
-
-let fn = mapper;
+module.exports = require("./helper");
